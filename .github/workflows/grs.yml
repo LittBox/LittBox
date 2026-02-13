@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
-
+# 添加权限配置
+permissions:
+  contents: write  # 赋予写入仓库的权限
 jobs:
   build:
     runs-on: ubuntu-latest
