@@ -20,7 +20,14 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: Debug - list files
+        run: |
+          echo "=== Current directory ==="
+          pwd
+          echo "=== profile directory contents ==="
+          ls -la profile/ || echo "profile directory not found"
+          echo "=== stats.svg file ==="
+          file profile/stats.svg || echo "stats.svg not found" 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
