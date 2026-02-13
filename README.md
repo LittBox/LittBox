@@ -24,3 +24,7 @@ Click HERE to view my resume in detail.
 - 🎸 Learn guitar by myself.(Start at Apr 5,2025)
 
 ### Work Experice
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittBox)
+‍
+
