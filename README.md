@@ -25,5 +25,5 @@ Click HERE to view my resume in detail.
 
 ### Work Experice
 
-[![LittBox's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittBox)](https://github.com/anuraghazra/github-readme-stats)‍
+[![LittBox's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittBox)](https://github.com/LittBox/github-readme-stats)‍
 
