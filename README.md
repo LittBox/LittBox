@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Resume
+Click HERE to view my resume in detail.
+
+### About Me
+- 🌱 I’m currently a sophomore learning in Yunnan University.
+- 🪖 I have a two-year journey as a solider in Beijing.
+- 📷 Passionate about photograph. 🧍‍♀️ I'm obsessed with shooting my little sister who is 20 years younger than me.
+- 🎹 Piano grade 8(Amateur)
+- 🎸 Learn guitar by myself.(Start at Apr 5,2025)
+
+### Work Experice
