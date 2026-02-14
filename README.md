@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Resume
-Click HERE to view my resume in detail.
 
 ### About Me
 - 🌱 I’m currently a student learning in Yunnan University.
@@ -23,11 +21,9 @@ Click HERE to view my resume in detail.
 - 🎹 Piano grade 8(Amateur)
 - 🎸 Learn guitar by myself.(Start at Apr 5,2025)
 
-### Work Experice
 
-![Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
-
+![Stats](./profile/stats.svg)
 
 [![LittBox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittBox)](https://github.com/ashutosh00710/github-readme-activity-graph)
