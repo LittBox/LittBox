@@ -25,6 +25,19 @@ Here are some ideas to get you started:
   
 
 
-![Stats](./profile/stats.svg)![Top Langs](./profile/top-langs.svg)
+### 📊 GitHub 统计
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="profile/stats.svg" width="400" height="170">
+      </td>
+      <td>
+        <img src="profile/top-langs.svg" width="400" height="170">
+      </td>
+    </tr>
+  </table>
+</div>
 
 [![LittBox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittBox)](https://github.com/ashutosh00710/github-readme-activity-graph)
