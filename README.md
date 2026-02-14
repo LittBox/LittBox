@@ -28,4 +28,6 @@ Click HERE to view my resume in detail.
 ![Stats](./profile/stats.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittBox)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittBox&show_icons=true&theme=transparent)
+
 [![LittBox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittBox)](https://github.com/ashutosh00710/github-readme-activity-graph)
