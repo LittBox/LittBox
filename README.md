@@ -26,7 +26,7 @@ Click HERE to view my resume in detail.
 ### Work Experice
 
 ![Stats](./profile/stats.svg)
-[![Top Langs](./profile/top-langs.svg)
+![Top Langs](./profile/top-langs.svg)
 
 
 
