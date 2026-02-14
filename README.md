@@ -26,7 +26,9 @@ Click HERE to view my resume in detail.
 ### Work Experice
 
 ![Stats](./profile/stats.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittBox)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittBox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittBox&show_icons=true&theme=transparent)
 
