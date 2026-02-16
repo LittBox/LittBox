@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <img src="profile/stats.svg" width="400" height="170">
       </td>
       <td>
-        <img src="profile/top-langs.svg" width="400" height="170">
+         <img src="profile/top-langs.svg" width="400" height="170" style="width: 400px !important; height: 170px !important;">
       </td>
     </tr>
   </table>
