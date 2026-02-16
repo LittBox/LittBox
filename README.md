@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittBox&theme=high-contrast&hide_border=true&bg_color=00000000&area=true" alt="LittBox's github activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittBox" alt="LittBox's github activity graph" />
 </div>
 
 
