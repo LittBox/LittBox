@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 🌱 I’m currently a student learning in Yunnan University.
-- 📷 Passionate about photograph. 🧍‍♀️ I'm obsessed with shooting my little sister who is 20 years younger than me.
+- 🌱 I’m currently a student at Yunnan University.
+- 📷 Passionate about photography. Shoot with Canon and Sony. Excel at street documentary.
 - 🎹 Piano grade 8(Amateur)
-- 🎸 Learn guitar by myself.(Start at Apr 5,2025)
+- 🎸 Self-taught guitar, started on April 5, 2025.
+- 🥊 **With _hard work_, even geniuses can be overtaken.**
 
 ---
 
