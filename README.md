@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
-  <tr style="border: none !important;">
-    <td style="border: none !important; padding: 0 !important; margin: 0 !important;">
-      <img src="profile/stats.svg" height="150" alt="stats" style="display: block !important; border: none !important; margin: 0 !important; padding: 0 !important;">
-    </td>
-    <td style="border: none !important; padding: 0 !important; margin: 0 !important;">
-      <img src="profile/top-langs.svg" height="150" alt="top langs" style="display: block !important; border: none !important; margin: 0 !important; padding: 0 !important;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <img src="https://readmestats.999857.xyz/api?username=LittBox&show_icons=true&theme=shadow_blue&hide_border=true&line_height=28&card_width=243&title_color=c2255c&text_color=f783ac&icon_color=c2255c&rank_icon=percentile&bg_color=00000000&include_all_commits=true" height="1500" alt="LittBox's GitHub stats" />
+  
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LittBox&layout=compact&theme=shadow_blue&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243&title_color=a3dcec&text_color=fff0f6&icon_color=c2255c" height="1500" alt="Top Langs" />
+</div>
 
-[![LittBox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittBox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittBox&theme=high-contrast&hide_border=true&bg_color=00000000&area=true" alt="LittBox's github activity graph" />
+</div>
+
+
