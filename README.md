@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub 统计
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
         <img src="profile/stats.svg" width="400" height="170">
