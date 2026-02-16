@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 ---
 
-<table align="center" style="border: none; background: transparent;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;">
-      <img src="profile/stats.svg" height="150" alt="stats">
+<table align="center" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
+  <tr style="border: none !important;">
+    <td style="border: none !important; padding: 0 !important; margin: 0 !important;">
+      <img src="profile/stats.svg" height="150" alt="stats" style="display: block !important; border: none !important; margin: 0 !important; padding: 0 !important;">
     </td>
-    <td style="border: none; padding: 0;">
-      <img src="profile/top-langs.svg" height="150" alt="top langs">
+    <td style="border: none !important; padding: 0 !important; margin: 0 !important;">
+      <img src="profile/top-langs.svg" height="150" alt="top langs" style="display: block !important; border: none !important; margin: 0 !important; padding: 0 !important;">
     </td>
   </tr>
 </table>
