@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 4px;">
-  <img src="profile/stats.svg" height="243" alt="stats">
-  <img src="profile/top-langs.svg" height="243" alt="top langs">
+  <img src="profile/stats.svg" height="180" alt="stats">
+  <img src="profile/top-langs.svg" height="180" alt="top langs">
 </div>
 
 [![LittBox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittBox)](https://github.com/ashutosh00710/github-readme-activity-graph)
