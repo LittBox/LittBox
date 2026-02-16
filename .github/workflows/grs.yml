@@ -35,6 +35,8 @@ jobs:
             &theme=radical
             &hide_border=true
             &langs_count=10
+            &hide=  # 设置为空，不隐藏任何语言
+            &langs_ignore=  # 不忽略任何语言
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Debug - list files
