@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ### 📊 GitHub 统计
 
 <div align="center">
-  <div>
-    <img src="profile/stats.svg" width="400" height="170">   
-    <img src="profile/top-langs.svg" width="400" height="170">
+  <div style="display: flex; justify-content: center; gap: 0;">
+    <img src="profile/stats.svg" width="400" height="170" style="display: block;">
+    <img src="profile/top-langs.svg" width="400" height="170" style="display: block;">
   </div>
 </div>
 
