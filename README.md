@@ -22,15 +22,10 @@ Here are some ideas to get you started:
 - 🎸 Learn guitar by myself.(Start at Apr 5,2025)
 
 ---
-  
 
-
-### 📊 GitHub 统计
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 0;">
-    <img src="profile/stats.svg" width="400" height="170" style="display: block;"><img src="profile/top-langs.svg" width="400" height="170" style="display: block;">
-  </div>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 4px;">
+  <img src="profile/stats.svg" width="243" alt="stats">
+  <img src="profile/top-langs.svg" width="243" alt="top langs">
 </div>
 
 [![LittBox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittBox)](https://github.com/ashutosh00710/github-readme-activity-graph)
