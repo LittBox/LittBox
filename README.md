@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 ### 📊 GitHub 统计
 
 <div align="center">
-<img src="profile/stats.svg" width="400" height="170">   
-<img src="profile/top-langs.svg" width="400" height="170">
+  <div>
+    <img src="profile/stats.svg" width="400" height="170">   
+    <img src="profile/top-langs.svg" width="400" height="170">
+  </div>
 </div>
 
 [![LittBox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LittBox)](https://github.com/ashutosh00710/github-readme-activity-graph)
