@@ -2,10 +2,16 @@
   <img src="./.github/profile/cover.svg" width="100%" alt="LittBox — 云南大学软件工程大三。研究脑机接口、EEG 数据与多智能体知识图谱工作流。Stay curious. Keep moving." />
 </p>
 
+<!-- Preserve the original counter provider and username so the existing counter is reused. -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LittBox&label=Profile%20views&color=yellow&style=flat" alt="LittBox profile views" />
+</p>
+
 <p align="center">
   <a href="#research-notes">研究手记</a> ·
   <a href="#selected-work">正在构建</a> ·
   <a href="#off-the-clock">生活切片</a> ·
+  <a href="#github-in-numbers">数据记录</a> ·
   <a href="https://github.com/LittBox?tab=repositories">全部仓库 ↗</a>
 </p>
 
@@ -63,6 +69,26 @@
 **Training / 健身人** — 一次训练，一次积累。进步也可以很安静。<br>
 **Photography / 街头观察者** — 使用 Canon 和 Sony，喜欢街头纪实，留意日常里没被说完的故事。<br>
 **Music / 继续练习** — 钢琴业余八级；从 2025 年 4 月 5 日开始自学吉他。
+
+<br>
+
+<a id="github-in-numbers"></a>
+## 04 / GitHub in numbers · 数据记录
+
+<!-- Keep quantitative profile features when changing the visual design. -->
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=LittBox&show_icons=true&hide_border=true&line_height=28&card_width=495&title_color=ef6b60&text_color=c9d1d9&icon_color=ef6b60&rank_icon=percentile&bg_color=171a18&include_all_commits=true" width="495" alt="LittBox 的 GitHub 统计：Star、提交、Pull Request、Issue 与贡献数据" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LittBox&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=495&title_color=ef6b60&text_color=c9d1d9&bg_color=171a18" width="495" alt="LittBox 的公开仓库编程语言分布" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittBox&theme=github_dark" width="100%" alt="LittBox 的 GitHub 年度贡献次数、公开仓库数量与贡献活动曲线" />
+</p>
+
+<sub>Profile views 是访问次数，并非独立访客人数；语言分布反映公开仓库代码，不代表熟练度。统计卡片由第三方服务提供，更新与显示可能存在延迟。</sub>
 
 <br>
 

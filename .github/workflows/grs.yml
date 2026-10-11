@@ -30,13 +30,29 @@ jobs:
           from pathlib import Path
           import re
           import xml.etree.ElementTree as ET
+          from html import unescape
+          from urllib.parse import urlparse, parse_qs
           for path in Path('.github/profile').glob('*.svg'):
               root = ET.parse(path).getroot()
               assert root.tag == '{http://www.w3.org/2000/svg}svg', path
               for node in root.iter():
                   assert node.tag.rsplit('}', 1)[-1] not in {'script', 'foreignObject', 'linearGradient', 'radialGradient'}, path
+          providers = {
+              'komarev.com': '/ghpvc/',
+              'readmestats.999857.xyz': '/api',
+              'github-readme-stats-fast.vercel.app': '/api/top-langs',
+              'github-profile-summary-cards.vercel.app': '/api/cards/profile-details',
+          }
+          found = set()
           for src in re.findall(r'<img[^>]+src="([^"]+)"', Path('README.md').read_text()):
-              assert src.startswith('./.github/profile/'), src
-              assert Path(src).is_file(), src
-          print('Profile artwork and image references verified.')
+              if src.startswith('./.github/profile/'):
+                  assert Path(src).is_file(), src
+              else:
+                  url = urlparse(unescape(src))
+                  assert url.scheme == 'https' and url.hostname in providers, src
+                  assert url.path == providers[url.hostname], src
+                  assert parse_qs(url.query).get('username') == ['LittBox'], src
+                  found.add(url.hostname)
+          assert found == set(providers), 'Preserve profile views, GitHub stats, languages, and activity graph.'
+          print('Profile artwork, counter identity, and quantitative sections verified.')
           PY
