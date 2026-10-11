@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="133" viewBox="0 0 960 133" role="img" aria-labelledby="title">
+<title id="title">Think deep. Move free. LittBox</title>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+.mono { font-family: 'SFMono-Regular', Consolas, monospace; letter-spacing: 2px; }
+.flow { stroke-dasharray: 5 10; animation: travel 5s linear infinite; }
+.pulse { animation: breathe 4s ease-in-out infinite; }
+.groove { transform-box: fill-box; transform-origin: center bottom; animation: groove 2s ease-in-out infinite; }
+@keyframes travel { to { stroke-dashoffset: -90; } }
+@keyframes breathe { 0%,100% { opacity: .4; } 50% { opacity: 1; } }
+@keyframes groove { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
+@media (prefers-reduced-motion: reduce) { .flow,.pulse,.groove { animation: none; } }
+</style>
+<rect width="960" height="133" fill="#f3f4f2"/>
+<line x1="32" y1="1" x2="928" y2="1" stroke="#232522" stroke-width="1" /><text x="32" y="58" font-size="30" fill="#232522" font-weight="700" letter-spacing="-1">THINK DEEP.</text><text x="32" y="99" font-size="30" fill="#b63b32" font-weight="700" letter-spacing="-1">MOVE FREE.</text><path d="M797 48 C785 33 763 42 770 58 C775 69 797 82 797 82 C797 82 820 67 824 56 C829 40 809 33 797 48 Z" fill="none" stroke="#b63b32" stroke-width="2" class="pulse"/><text x="928" y="107" font-size="15" fill="#62665f" font-weight="400" text-anchor="end">LittBox / KEEP IT REAL</text>
+</svg>
