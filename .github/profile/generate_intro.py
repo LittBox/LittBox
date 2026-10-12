@@ -34,7 +34,7 @@ def generate_intro():
 </svg>
 ''', encoding='utf-8')
     (ROOT / 'bio.svg').write_text('''<svg xmlns="http://www.w3.org/2000/svg" width="700" height="116" viewBox="0 0 700 116" role="img" aria-labelledby="bio-title bio-desc">
-<title id="bio-title">LittBox / 软件工程在读，持续探索中。</title>
+<title id="bio-title">Think deep. Move free.</title>
 <desc id="bio-desc">云南大学 · 软件工程专业 · 大三在读。居中的纯色打字动画。</desc>
 <style>
 text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif; }
@@ -45,7 +45,7 @@ text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','M
 @media (prefers-reduced-motion:reduce) { .reveal { animation:none; width:640px; } .cursor { animation:none; opacity:1; } }
 </style>
 <defs><clipPath id="typing"><rect class="reveal" x="30" y="18" width="640" height="39"/></clipPath></defs>
-<text x="350" y="46" text-anchor="middle" font-size="25" font-weight="650" fill="#df6257" clip-path="url(#typing)">LittBox / 软件工程在读，持续探索中。</text>
+<text x="350" y="46" text-anchor="middle" font-size="25" font-weight="650" fill="#df6257" clip-path="url(#typing)">Think deep. Move free.</text>
 <text x="350" y="79" text-anchor="middle" font-size="19" fill="#389a88">云南大学 · 软件工程专业 · 大三在读。</text>
 <path d="M310 102 H382" stroke="#598fce" stroke-width="2"/>
 <path class="cursor" d="M387 97 V107" stroke="#df6257" stroke-width="2"/>
