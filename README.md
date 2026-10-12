@@ -1,5 +1,42 @@
+# Hi，there👋
+I'm Zeng Xiangyu, student now studying in Ynu(Yunnan University)
+最近把好奇心放在**脑机接口与 EEG 数据研究**，以及**多智能体构建知识图谱的工作流**上
+
 <p align="center">
-  <img src="./.github/profile/cover.svg" width="100%" alt="LittBox — 云南大学软件工程大三。研究脑机接口、EEG 数据与多智能体知识图谱工作流。Stay curious. Keep moving." />
+  <img src="./.github/profile/bio.svg" width="700" alt="LittBox / 软件工程在读，持续探索中。云南大学 · 软件工程专业 · 大三在读。" />
+</p>
+
+<p align="center">
+  最近把好奇心放在<strong>脑机接口与 EEG 数据研究</strong>，以及<strong>多智能体构建知识图谱的工作流</strong>上。想把信号读懂，把知识连起来，也把想法做成真正能运行的东西。
+</p>
+
+<p align="center">
+  屏幕之外，练 hiphop 街舞，健身，拍街头，也弹钢琴和吉他。研究需要专注，生活需要律动。保持自己的节奏，对热爱的事持续投入。
+</p>
+
+<p align="center">
+  <em>Think deep. Move free. / 深入思考，自由律动。</em>
+</p>
+
+<p align="center">
+  <img src="./.github/profile/badges/python.svg" alt="Python" height="22" />
+  <img src="./.github/profile/badges/javascript.svg" alt="JavaScript" height="22" />
+  <img src="./.github/profile/badges/typescript.svg" alt="TypeScript" height="22" />
+  <img src="./.github/profile/badges/java.svg" alt="Java" height="22" />
+  <img src="./.github/profile/badges/cpp.svg" alt="C++" height="22" />
+  <img src="./.github/profile/badges/html.svg" alt="HTML" height="22" />
+  <img src="./.github/profile/badges/css.svg" alt="CSS" height="22" />
+  <img src="./.github/profile/badges/shell.svg" alt="Shell" height="22" />
+  <img src="./.github/profile/badges/matlab.svg" alt="MATLAB" height="22" />
+</p>
+
+<p align="center">
+  <img src="./.github/profile/badges/vue.svg" alt="Vue 3" height="22" />
+  <img src="./.github/profile/badges/spring-boot.svg" alt="Spring Boot" height="22" />
+  <img src="./.github/profile/badges/fastapi.svg" alt="FastAPI" height="22" />
+  <img src="./.github/profile/badges/uni-app.svg" alt="uni-app" height="22" />
+  <img src="./.github/profile/badges/neo4j.svg" alt="Neo4j" height="22" />
+  <img src="./.github/profile/badges/postgresql.svg" alt="PostgreSQL" height="22" />
 </p>
 
 <!-- Preserve the original counter provider and username so the existing counter is reused. -->
@@ -14,16 +51,6 @@
   <a href="#github-in-numbers">数据记录</a> ·
   <a href="https://github.com/LittBox?tab=repositories">全部仓库 ↗</a>
 </p>
-
-<br>
-
-**LittBox / 软件工程在读，持续探索中。**
-
-云南大学 · 软件工程专业 · 大三在读。最近把好奇心放在**脑机接口与 EEG 数据研究**，以及**多智能体构建知识图谱的工作流**上。想把信号读懂，把知识连起来，也把想法做成真正能运行的东西。
-
-屏幕之外，练 hiphop 街舞，健身，拍街头，也弹钢琴和吉他。研究需要专注，生活需要律动。保持自己的节奏，对热爱的事持续投入。
-
-> Think deep. Move free. / 深入思考，自由律动。
 
 <br>
 

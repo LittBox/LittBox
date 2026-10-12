@@ -144,6 +144,8 @@ def signature():
 
 
 if __name__ == '__main__':
+    from generate_intro import generate_intro
+    generate_intro()
     cover()
     research()
     life()
