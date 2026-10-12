@@ -10,8 +10,7 @@ text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','M
 @media (prefers-reduced-motion:reduce) { .reveal { animation:none; width:640px; } .cursor { animation:none; opacity:1; } }
 </style>
 <defs><clipPath id="typing"><rect class="reveal" x="30" y="18" width="640" height="39"/></clipPath></defs>
-<text x="350" y="46" text-anchor="middle" font-size="25" font-weight="650" fill="#df6257" clip-path="url(#typing)">Think deep. Move free.</text>
-<text x="350" y="79" text-anchor="middle" font-size="19" fill="#389a88">云南大学 · 软件工程专业 · 大三在读。</text>
-<path d="M310 102 H382" stroke="#598fce" stroke-width="2"/>
+<text x="350" y="46" text-anchor="middle" font-size="25" font-weight="650" fill="#bc06bc" clip-path="url(#typing)">Think deep. Move free.</text>
+<path d="M310 102 H382" stroke="#598fce" stroke-width="2" fill="#955cff"/>
 <path class="cursor" d="M387 97 V107" stroke="#df6257" stroke-width="2"/>
 </svg>
