@@ -49,6 +49,12 @@ jobs:
                   assert Path(src).is_file(), src
               else:
                   url = urlparse(unescape(src))
+                  if url.scheme == 'https' and url.hostname == 'img.shields.io':
+                      query = parse_qs(url.query)
+                      assert url.path == '/badge/dynamic/json', src
+                      assert query.get('url') == ['https://api.github.com/users/LittBox'], src
+                      assert query.get('query') == ['$.public_repos'], src
+                      continue
                   assert url.scheme == 'https' and url.hostname in providers, src
                   assert url.path == providers[url.hostname], src
                   assert parse_qs(url.query).get('username') == ['LittBox'], src

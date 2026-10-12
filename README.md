@@ -1,22 +1,18 @@
 # Hi，there👋
 I'm Zeng Xiangyu, student now studying in Ynu(Yunnan University)
-最近把好奇心放在**脑机接口与 EEG 数据研究**，以及**多智能体构建知识图谱的工作流**上
 
 <p align="center">
-  <img src="./.github/profile/bio.svg" width="700" alt="LittBox / 软件工程在读，持续探索中。云南大学 · 软件工程专业 · 大三在读。" />
+  <img src="./.github/profile/bio.svg" width="700" alt="Think deep. Move free." />
 </p>
 
 <p align="center">
-  最近把好奇心放在<strong>脑机接口与 EEG 数据研究</strong>，以及<strong>多智能体构建知识图谱的工作流</strong>上。想把信号读懂，把知识连起来，也把想法做成真正能运行的东西。
+  最近在研究<strong>脑机接口与 EEG 数据</strong>，以及<strong>多智能体构建知识图谱的工作流</strong>。
 </p>
 
 <p align="center">
-  屏幕之外，练 hiphop 街舞，健身，拍街头，也弹钢琴和吉他。研究需要专注，生活需要律动。保持自己的节奏，对热爱的事持续投入。
+  业余爱好，练 hiphop 街舞，健身，拍街头，也弹钢琴和吉他。研究需要专注，生活需要律动。保持自己的节奏，对热爱的事持续投入。
 </p>
 
-<p align="center">
-  <em>Think deep. Move free. / 深入思考，自由律动。</em>
-</p>
 
 <p align="center">
   <img src="./.github/profile/badges/python.svg" alt="Python" height="22" />
@@ -42,6 +38,9 @@ I'm Zeng Xiangyu, student now studying in Ynu(Yunnan University)
 <!-- Preserve the original counter provider and username so the existing counter is reused. -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LittBox&label=Profile%20views&color=yellow&style=flat" alt="LittBox profile views" />
+  <a href="https://github.com/LittBox?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLittBox&query=%24.public_repos&label=repository&color=3178c6&labelColor=555555&style=flat-square" alt="LittBox 公开仓库数量" /></a>
+  <img src="./.github/profile/badges/xiaohongshu.svg" alt="小红书：LittBox" />
+  <img src="./.github/profile/badges/bilibili.svg" alt="bilibili：LittBox" />
 </p>
 
 <p align="center">
