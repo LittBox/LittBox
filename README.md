@@ -9,29 +9,51 @@
 </p>
 
 <p >
-  Hobbies:  🎧hiphop ，💪Iron Game，📷Street Photography，🎹Keys & 🎸Six-String。研究需要专注，生活需要律动。保持自己的节奏，对热爱的事持续投入。
+研究需要专注，生活需要律动。保持自己的节奏，对热爱的事持续投入。
 </p>
 
-<p align="center">
-  <img src="./.github/profile/badges/python.svg" alt="Python" height="22" />
-  <img src="./.github/profile/badges/javascript.svg" alt="JavaScript" height="22" />
-  <img src="./.github/profile/badges/typescript.svg" alt="TypeScript" height="22" />
-  <img src="./.github/profile/badges/java.svg" alt="Java" height="22" />
-  <img src="./.github/profile/badges/cpp.svg" alt="C++" height="22" />
-  <img src="./.github/profile/badges/html.svg" alt="HTML" height="22" />
-  <img src="./.github/profile/badges/css.svg" alt="CSS" height="22" />
-  <img src="./.github/profile/badges/shell.svg" alt="Shell" height="22" />
-  <img src="./.github/profile/badges/matlab.svg" alt="MATLAB" height="22" />
-</p>
+<!-- Tech Stack -->
+<h3 align="center">Tech Stack</h3>
 
-<p align="center">
-  <img src="./.github/profile/badges/vue.svg" alt="Vue 3" height="22" />
-  <img src="./.github/profile/badges/spring-boot.svg" alt="Spring Boot" height="22" />
-  <img src="./.github/profile/badges/fastapi.svg" alt="FastAPI" height="22" />
-  <img src="./.github/profile/badges/uni-app.svg" alt="uni-app" height="22" />
-  <img src="./.github/profile/badges/neo4j.svg" alt="Neo4j" height="22" />
-  <img src="./.github/profile/badges/postgresql.svg" alt="PostgreSQL" height="22" />
-</p>
+<table align="center">
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="./.github/profile/badges/python.svg" alt="Python" height="22" />
+      <img src="./.github/profile/badges/java.svg" alt="Java" height="22" />
+      <img src="./.github/profile/badges/cpp.svg" alt="C++" height="22" />
+      <img src="./.github/profile/badges/html.svg" alt="HTML" height="22" />
+      <img src="./.github/profile/badges/css.svg" alt="CSS" height="22" />
+      <img src="./.github/profile/badges/javascript.svg" alt="JavaScript" height="22" />
+      <img src="./.github/profile/badges/typescript.svg" alt="TypeScript" height="22" />
+      <img src="./.github/profile/badges/shell.svg" alt="Shell" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>
+      <img src="./.github/profile/badges/vue.svg" alt="Vue 3" height="22" />
+      <img src="./.github/profile/badges/spring-boot.svg" alt="Spring Boot" height="22" />
+      <img src="./.github/profile/badges/fastapi.svg" alt="FastAPI" height="22" />
+      <img src="./.github/profile/badges/uni-app.svg" alt="uni-app" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="./.github/profile/badges/mysql.svg" alt="MySQL" height="22" />
+      <img src="./.github/profile/badges/neo4j.svg" alt="Neo4j" height="22" />
+      <img src="./.github/profile/badges/postgresql.svg" alt="PostgreSQL" height="22" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Libraries</strong></td>
+    <td>
+      <code>Lombok</code>
+      <code>MyBatis</code>
+    </td>
+  </tr>
+</table>
 
 <!-- Preserve the original counter provider and username so the existing counter is reused. -->
 
@@ -83,11 +105,11 @@
 | **[YNU Shooting Training ↗](https://github.com/LittBox/ynu-shooting-training)**                 | 云大射击训练管理微信小程序，覆盖预约、排班、签到与成绩登记。`Vue 3` `Spring Boot` `PostgreSQL`                         |
 | **[Mathematical Modeling Toolkit ↗](https://github.com/LittBox/mathematical-modeling-toolkit)** | 整理数学建模的 Python 模板、可视化示例、方法与学术写作笔记。                                                                 |
 
-<sub></sub>学习项目、课程实践和持续探索都保留它们本来的样子。更多代码见 <a href="https://github.com/LittBox?tab=repositories">。Repositories</sub>
+<sub>学习项目、课程实践和持续探索都保留它们本来的样子。更多代码见 <a href="https://github.com/LittBox?tab=repositories">Repositories</a>。</sub>
 
 <br>
 
-[<a id="off-the-clock"></a>](https://github.com/LittBox?tab=repositories)
+<a id="off-the-clock"></a>
 
 ## 03 / Off the clock · 屏幕之外
 
